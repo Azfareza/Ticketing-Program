@@ -1,0 +1,11 @@
+=======================================================================================
+||------------------------------Tujuan Kota Penerbangan------------------------------||
+=======================================================================================
+||1. Medan#              ||(KNO)Kualanamu International Airport                    ||                   
+||2. Denpasar, Bali#     ||(DPS)Ngurah RAI International Airport                   ||
+||3. Jakarta#            ||(CGK)Soekarno Hatta International Airport               ||
+||4. Makassar#           ||(UPG)Sultan Hasanuddin International Airport            ||
+||5. Surabaya#           ||(SUB)Juanda Airport                                     ||
+||6. Palembang#          ||(PLM)Sultan Mahmud Badarudin II International Airport   ||
+||7. Padang#             ||(PDG)Minangkabau International Airport                  ||
+=====================================================================================
